@@ -1,4 +1,4 @@
-<h1 align="center">Hello👋, I'm Prakash Alagundagi</h1>
+<h1 align="center">Hi 👋, I'm Prakash Alagundagi</h1>
 <h3 align="center">A passionate about Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashalagundagi&label=Profile%20views&color=0e75b6&style=flat" alt="prakashalagundagi" /> </p>
@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakashalagundagi&show_icons=true&locale=en" alt="prakashalagundagi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakashalagundagi&" alt="prakashalagundagi" /></p>
+
