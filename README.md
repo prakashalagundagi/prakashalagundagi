@@ -24,7 +24,7 @@
 - 📄 Know about my experiences  
 [Resume](https://drive.google.com/file/d/1VLJ5hmCJbYtL4yO7WENe-qdGG40rezgq/view)
 
-- ⚡ Fun fact **U thought I am Sad 😄**
+- ⚡ Fun fact **😄**
 
 ---
 
